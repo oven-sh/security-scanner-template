@@ -93,7 +93,7 @@ To test locally before publishing, use [`bun link`](https://bun.sh/docs/cli/link
 bun link
 
 # In your test project
-bun link @acme/bun # this is the name in package.json of your provider
+bun link @oven/my-security-scanner # this is the name in package.json of your provider
 ```
 
 ## Contributing
